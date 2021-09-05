@@ -9,6 +9,7 @@
     "test": "ng test",
     "prepare": "npm run build"
   },
+  "repository": "https://github.com/Mateaus/potatosalad.git",
   "private": true,
   "dependencies": {
     "@angular/animations": "~12.2.0",
