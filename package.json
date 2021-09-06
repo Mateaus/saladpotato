@@ -8,7 +8,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "prepare": "npm run build"
+    "prepare": "npm run asdasd"
   },
   "repository": {
       "type": "git",
