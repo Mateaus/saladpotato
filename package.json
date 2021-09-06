@@ -13,14 +13,14 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/Mateaus/potatosalad.git"
+      "url": "https://github.com/Mateaus/saladpotato.git"
   },
   "author": "Mateaus",
   "license": "MIT",
   "bugs": {
-      "url": "https://github.com/Mateaus/potatosalad/issues"
+      "url": "https://github.com/Mateaus/saladpotato/issues"
   },
-  "homepage": "https://github.com/Mateaus/potatosalad",
+  "homepage": "https://github.com/Mateaus/saladpotato",
   "dependencies": {
     "@angular/animations": "~12.2.0",
     "@angular/common": "~12.2.0",
