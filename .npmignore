@@ -1,5 +1,10 @@
+# Configs
 .editorconfig
+
+# Json files
 tsconfig.json
+angular.json
 package-lock.json
 
+# Package
 projects
