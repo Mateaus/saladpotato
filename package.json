@@ -8,6 +8,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
+    "preinstall": "npm install",
     "postinstall": "npm run build"
   },
   "repository": {
