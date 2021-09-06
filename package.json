@@ -20,7 +20,6 @@
       "url": "https://github.com/Mateaus/potatosalad/issues"
   },
   "homepage": "https://github.com/Mateaus/potatosalad",
-  "private": true,
   "dependencies": {
     "@angular/animations": "~12.2.0",
     "@angular/common": "~12.2.0",
